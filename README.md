@@ -28,7 +28,7 @@ It’s designed for educational and ethical research purposes only — **never u
 
 Run the Python script using:
 
-```bash
+
 python bruteforce.py
 Enter the target SHA-256 hash you want to crack.
 
