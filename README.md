@@ -52,7 +52,7 @@ Python 3.x
 
 Standard Python libraries (Tkinter, hashlib, etc.) included by default 
 
-# License# 
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you for using Bruteforce 1.0 — please use responsibly!
