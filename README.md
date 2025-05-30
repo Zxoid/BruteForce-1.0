@@ -50,7 +50,7 @@ This project is for learning and research purposes only.
 Requirements
 Python 3.x
 
-Standard Python libraries (Tkinter, hashlib, etc.) included by default ```bash
+Standard Python libraries (Tkinter, hashlib, etc.) included by default 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
